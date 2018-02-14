@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Roll
+comment0.text=\r\n\ \r\n\r\n\ @author\ Sean\ Stock\r\n\ @version\ 2.13.18\r\n
+comment1.params=numDice\ type\ targetNum
+comment1.target=Roll(int,\ int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Roll\r\n
+comment2.params=
+comment2.target=void\ newAttempt()
+comment2.text=\r\n\ \r\n
+numComments=3
