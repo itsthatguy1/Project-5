@@ -2,7 +2,7 @@ import java.util.Random;
 import java.util.ArrayList;
 
 /**
- * 
+ * Lets user roll a die multiple times and records the results.
  *
  * @author Sean Stock
  * @version 2.13.18
@@ -32,7 +32,10 @@ public class Roll
     }
 
     /**
-     * 
+     * Clears the rolls array, and rolls the die the specified number of times.
+     * Will print a failure message of more than half the rolls are ones.
+     * Will reroll if the result is the same as the dye type, then add the two individual results
+     * If result is successful, it will be displayed on screen.
      */
     public void newAttempt()
     {

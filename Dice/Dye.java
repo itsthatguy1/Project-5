@@ -1,7 +1,7 @@
 import java.util.Random;
 
 /**
- * 
+ * Creates a dye with a specified number of sides.
  *
  * @author Sean Stock
  * @version 2.13.18
@@ -21,7 +21,7 @@ import java.util.Random;
     }
 
     /**
-     *
+     * Rolls the die, and returns the random result.
      */
     public int rollDye()
     {

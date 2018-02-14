@@ -1,10 +1,10 @@
 #BlueJ class context
 comment0.target=Dye
-comment0.text=\r\n\ \r\n\r\n\ @author\ Sean\ Stock\r\n\ @version\ 2.13.18\r\n
+comment0.text=\r\n\ Creates\ a\ dye\ with\ a\ specified\ number\ of\ sides.\r\n\r\n\ @author\ Sean\ Stock\r\n\ @version\ 2.13.18\r\n
 comment1.params=type
 comment1.target=Dye(int)
 comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Dye\r\n
 comment2.params=
 comment2.target=int\ rollDye()
-comment2.text=\r\n\r\n
+comment2.text=\r\n\ Rolls\ the\ die,\ and\ returns\ the\ random\ result.\r\n
 numComments=3
